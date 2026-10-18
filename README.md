@@ -1,27 +1,46 @@
-# Python Basics
+#  Exploratory Data Analysis (EDA) and Machine Learning
 
 ## About This Repository
-This repository contains my Python practice programs as I learn programming fundamentals and improve my problem-solving skills.
+This repository contains my Python practice programs, Exploratory Data Analysis (EDA), and Machine Learning exercises completed while developing my programming and data analytics skills.
 
 ## Topics Covered
-- Variables and data types
-- User input and output
-- Conditional statements (`if`, `elif`, `else`)
-- Loops
-- Functions
-- Basic mathematical programs
 
-## Technologies Used
-- Python 3
+### 1. Python Programming
+- Variables and data types
+- Conditional statements
+- Loops and functions
+- Basic programming exercises
+
+### 2. Exploratory Data Analysis (EDA)
+- Data exploration and inspection
+- Data cleaning and preprocessing
+- Handling missing values and duplicates
+- Statistical analysis
+- Data visualization using Matplotlib and Seaborn
+- Exploring relationships between variables
+
+### 3. Machine Learning
+- Data preprocessing
+- Feature selection and preparation
+- Splitting data into training and testing sets
+- Training and evaluating machine learning models
+- Practising supervised learning algorithms
+
+## Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 - Visual Studio Code
 
-## How to Run
-1. Install Python 3.
-2. Clone or download this repository.
-3. Open the project folder in Visual Studio Code.
-4. Run any Python file using the terminal:
-
-   `python filename.py`
-
 ## Purpose
-This repository documents my Python learning journey and provides a foundation for future data analytics and machine learning projects.
+This repository documents my learning journey in Python, data analysis, and machine learning through practical exercises and projects.
+
+## Future Improvements
+I will continue adding projects, improving documentation, and practising data analysis and machine learning techniques.
+
+## Author
+Vinaya
